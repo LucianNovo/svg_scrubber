@@ -1,0 +1,185 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px" height="64px" viewBox="0 0 100 64" enable-background="new 0 0 100 64" xml:space="preserve">
+<polygon points="50.001,45.022 50.001,45.023 50,45.022 0,9.464 0,64 100,64 100,9.465 "></polygon>
+<polygon points="99.497,0 0.504,0 50,35.097 "></polygon>
+</svg>
+</span>
+          <h1>Subscribed!</h1>
+        </a>
+      
+        <ul>
+            
+          <li>About</li>
+          <li><a href="http://thenounproject.com/about/">The Project</a></li>  
+          <li><a href="http://thenounproject.com/jobs/">Jobs</a></li>
+          
+          <li><a href="http://thenounproject.com/press/">Press</a></li>
+          
+        </ul>
+        <ul>
+          <li>Contribute</li>
+          <!-- ## DONATIONS LINK ##
+               ## FAILED goes to nounproject.com/?donate=cancel
+               ## SUCCESS goes to nounproject.com/?donate=true
+            -->
+          <li><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3FKH3HEC9V2R4">Donate</a></li>
+          <li><a href="http://thenounproject.com/iconathon/">Iconathon</a></li>
+          <li><a href="http://thenounproject.com/organize/">Organize</a></li>
+          <li><a href="http://thenounproject.com/translators/">Translate</a></li>
+        </ul>
+        <ul>
+          <li>Community</li>
+          <li><a href="http://thenounproject.com/developers/">Developers</a></li>
+          <li><a href="http://thenounproject.com/for-designers/">Designers</a></li>
+          <li><a href="http://thenounproject.com/educators/">Educators</a></li>
+          
+        </ul>
+        <ul>
+          <li>Contact</li>
+          <li><a href="mailto:info@thenounproject.com">Email</a></li>
+          <li><a href="http://twitter.com/nounproject" target="_blank">Twitter</a></li>
+          <li><a href="http://thenounproject.com/noun/flag/#" onclick="UserVoice.Popin.show(uservoiceOptions); return false;">Feedback</a></li>
+        </ul>
+        <ul>
+          <li>Legal</li>
+          <li><a href="http://thenounproject.com/terms-of-use/">Terms of Use</a></li>
+          <li><a href="http://thenounproject.com/privacy/">Privacy</a></li>
+          <li><a href="http://thenounproject.com/using-symbols/">Using Symbols</a></li>            
+        </ul>
+        
+        <div id="ads">
+            <p><a href="http://decknetwork.net/" target="_blank">Ads via the Deck</a></p>
+          <script type="text/javascript">
+            // LOADS IN ADS VIA THE DECK
+            //<![CDATA[
+            (function(id) {
+            document.write('<script type="text/javascript" src="' +
+            'http://connect.decknetwork.net/deck' + id + '_js.php?' +
+            (new Date().getTime()) + '"></' + 'script>');
+            })("NP");
+            //]]>
+
+            // Tracking for fonts.com - not 100% needed but follows their terms & conditions
+            window.onload=function() {
+                var mtiTracking = document.createElement('link');
+                mtiTracking.type='text/css';
+                mtiTracking.rel='stylesheet';
+                mtiTracking.href=('https:'==document.location.protocol?'https:':'http:') + '//fast.fonts.com/t/1.css?apiType=css&projectid=aead45ef-003c-4cc3-8d04-18c5a822c940';
+                (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild( mtiTracking );
+           }
+
+          </script><script type="text/javascript" src="http://connect.decknetwork.net/deckNP_js.php?1368678167091"></script>
+          <!--
+          <img src="/static/v3/images/ad.jpg" width="115" height="85" />
+          <figcaption>Vitamin T: The talent agency for digital creatives &amp; the companies who love them.</figcaption>
+          -->
+        </div>
+        
+        <div id="toes">
+        <span>® 2013 The Noun Project</span>
+        <!--
+            <span class="facebook">
+              <div class="fb-like" data-href="http://www.thenounproject.com" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false" data-colorscheme="dark" data-font="lucida grande"></div>
+            </span>
+        -->
+            <span><a href="http://twitter.com/nounproject">Follow us on Twitter</a></span>
+
+
+        </div>
+    </div>
+    </section>
+    
+
+    <!--Google Analytics-->
+    <script type="text/javascript">
+      // GOOGLE ANALYTICS 
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-26700829-1']);
+      _gaq.push(['_setDomainName', 'thenounproject.com']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+
+    <!--User Voice-->
+    <script type="text/javascript">
+      var uservoiceOptions = {
+        key: 'thenounproject',
+        host: 'thenounproject.uservoice.com', 
+        forum: '90265',
+        lang: 'en',
+        showTab: false
+      };
+      function _loadUserVoice() {
+        var s = document.createElement('script');
+        s.src = "http://cdn.thenounproject.com/static/js/tabs.js?x=12";
+        document.getElementsByTagName('head')[0].appendChild(s);
+      }
+      _loadSuper = window.onload;
+      window.onload = (typeof window.onload != 'function') ? _loadUserVoice : function() { _loadSuper(); _loadUserVoice(); };
+</script>
+
+<!-- ## FACBOOK LIKE BUTTON  -->
+    <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+<!-- ## FACBOOK LIKE BUTTON END -->
+
+
+
+
+
+<!-- ## LESS NEGLECT BEGIN-->
+<script>
+  var _lnq = _lnq || [];
+
+  _lnq.push(['_setCode', 'oghcsgk8xv']); 
+  _lnq.push(['_setPersonData', {
+    external_identifier: 'lucian.novosel', 
+    name: '', 
+    email: 'lucstencildude@yahoo.com', 
+      properties: {
+        twitter: 'None', 
+        website: 'None',
+        language: 'en-us', 
+        country: '',
+        city: 'None',
+        state: 'None',
+        postal: 'None',
+        description: 'None',
+        behance: 'None',
+        dribble: 'None',
+        facebook: 'None',
+        paypal: 'None'
+      }
+    }]);
+
+
+  (function() {
+    var ln = document.createElement('script'); ln.type = 'text/javascript'; ln.async = true;
+    ln.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'api.lessneglect.com/cdn/ln-2.1.min.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ln, s);
+  })();
+
+  
+
+  _lnq.push(['_logEvent', {
+    name: 'viewed:noun page',
+    note: 'Flag' 
+  }]);
+
+  
+</script>
+<!-- ## LESS NEGLECT END-->
+
+
+
+</body></html></svg>
